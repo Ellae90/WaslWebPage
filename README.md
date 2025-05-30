@@ -1,9 +1,9 @@
-# WaslWebPage
+## WaslWebPage
 Wasl - Campus Lost & Found Platform
 
 Wasl is a user-friendly web platform designed to assist university students and staff in finding and reporting lost items within the university campus.
 
-Features
+# Features
 
 Search Lost Items: Users can browse lost item announcements with filters by category (e.g., electronics, personal items, clothing) and search by keywords.
 
@@ -15,11 +15,11 @@ Real-time Updates: Submitted reports are acknowledged immediately with a success
 
 Arabic Interface: The platform is fully in Arabic with a right-to-left layout tailored for native users.
 
-Use Case
+# Use Case
 
 This platform is ideal for university environments where students and staff frequently misplace personal or electronic items. It centralizes lost-and-found operations into one accessible place.
 
-Technologies Used
+# Technologies Used
 
 HTML
 
@@ -27,7 +27,7 @@ CSS
 
 Vanilla JavaScript
 
-Pages Included
+# Pages Included
 
 Home Page: Overview of the system and key stats.
 
